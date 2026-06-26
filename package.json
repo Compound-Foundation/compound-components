@@ -19,7 +19,6 @@
     "@walletconnect/modal": "^2.5.4",
     "autoprefixer": "^9.7.6",
     "babel-loader": "^8.0.0",
-    "bnc-sdk": "^2.1.5",
     "case-sensitive-paths-webpack-plugin": "^2.1.2",
     "chalk": "^4.0.0",
     "core-js": "3",
